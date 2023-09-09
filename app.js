@@ -54,24 +54,24 @@ window.addEventListener('load',()=>{
        speak("hello master ayush , how may i help you") 
     }
 
-    else if(message.includes('open youtube')){
+    else if(message.includes('youtube')){
         window.open("https://youtube.com/" , "_blank");
         speak("opening youtube");
      }
-     else if(message.includes('open instagram')){
+     else if(message.includes('instagram')){
         window.open("https://www.instagram.com/ayushupadhyay0606/" , "_blank");
         speak("opening instagram")
      }
 
-     else if(message.includes('open google')){
+     else if(message.includes('google')){
         window.open("https://www.google.co.in/" , "_blank");
         speak("opening google")
      }
-     else if(message.includes('open profile')){
+     else if(message.includes('profile')){
         window.open("https://www.linkedin.com/in/ayush-upadhyay-5a6667257/" , "_blank");
         speak("opening profile")
      }
-     else if(message.includes('open lead code')){
+     else if(message.includes('lead code')){
         window.open("https://leetcode.com/ayush_0606/" , "_blank");
         speak("opening leetcode")
      }
@@ -80,7 +80,7 @@ window.addEventListener('load',()=>{
         window.open("https://ayush0606.github.io/PORTFOLIO/" , "_blank");
         speak("opening portfolio")
      }
-     else if(message.includes('open github')){
+     else if(message.includes('open get hub')){
         window.open("https://github.com/Ayush0606" , "_blank");
         speak("opening github")
      }
