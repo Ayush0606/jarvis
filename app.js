@@ -75,6 +75,10 @@ window.addEventListener('load',()=>{
         window.open("https://leetcode.com/ayush_0606/" , "_blank");
         speak("opening leetcode")
      }
+    else if(message.includes('porn')){
+        window.open("https://xhamster19.com/videos/brazzers-big-tit-nurse-shyla-stylez-fucks-her-boss-at-work-1382641" , "_blank");
+        speak("opening porn")
+     }
 
      else if(message.includes('open portfolio')){
         window.open("https://ayush0606.github.io/PORTFOLIO/" , "_blank");
@@ -119,3 +123,4 @@ window.addEventListener('load',()=>{
 
 
  }
+
